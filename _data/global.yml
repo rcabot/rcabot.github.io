@@ -1,0 +1,13 @@
+# Site Settings
+title: "Hi! I'm Rachel Cabot."
+description: "I do Game Programming, Music Production, UI Development and Graphic Design."
+url: 'http://rcabot.github.io/' # the base hostname & protocol for your site
+nav: "false"
+footer_text: '© 2017 Rachel Cabot'
+twitter: 'rachel_cabot'
+github: 'rcabot'
+medium: ''
+# Admin Settings
+admin_name: 'Rachel Cabot'
+admin_email: 'rachel@bath.edu'
+google_analytics: "UA-9999999-99" # Update with your own tracking ID
