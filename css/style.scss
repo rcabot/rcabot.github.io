@@ -21,7 +21,7 @@ $secondary: #FF7B7B;
 
 %opensans { font-family: 'Open Sans', sans-serif; }
 %merriweather { font-family: 'Merriweather', serif; }
-
+%vollkorn { font-family: 'Vollkorn', serif; }
 /*--------------------------------------------------------------
 	1.0 Defaults
 --------------------------------------------------------------*/
@@ -39,7 +39,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @extend %merriweather;
+  @extend %vollkorn;
   font-weight: 700;
 }
 
